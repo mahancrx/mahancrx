@@ -12,3 +12,7 @@
 
 <br>
 <h2 align="right">تماس با من ☎️  :</h2>
+
+<a href="https://www.instagram.com/wahawn_/"><img src="https://github.com/mahancrx/mahancrx/blob/main/image/icons8-instagram-logo-48.png"></a>
+<a href="https://t.me/exiteboy"><img src="https://github.com/mahancrx/mahancrx/blob/main/image/icons8-telegram-logo-48.png"></a>
+<a href="https://wa.me/989157817553"><img src="https://static.xx.fbcdn.net/assets/?revision=847097093873056&name=platform-agnostic-green-medium-en-us&density=1" style="width:200px"></a>
