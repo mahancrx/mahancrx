@@ -28,3 +28,9 @@
 <br>
 <h3 align="left">🔮 wordpress | 90%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="450px" height="16px"></h3>
 <br>
+
+<h2 align="right">الان مشغول این کار ها هستم 😎 :</h2>
+<h4 align="rigt">💫 تدریس</h4>
+<h4 align="rigt">💫 تکمیل پروژه</h4>
+<h4 align="rigt">💫 تکمیل رزومه</h4>
+<h4 align="rigt">💫 یادگیری</h4>
