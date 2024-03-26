@@ -18,11 +18,11 @@
 <a href="https://wa.me/989157817553"><img src="https://static.xx.fbcdn.net/assets/?revision=847097093873056&name=platform-agnostic-green-medium-en-us&density=1" style="width:200px"></a>
 
 <h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>
-<h3 align="left">🔮 Django | 60%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="300px" height="16px"></h3>
+<h3 align="left">🔮 Django | 40%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="200px" height="16px"></h3>
 <br>
 <h3 align="left">🔮 php | 80%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="400px" height="16px"></h3>
 <br>
-<h3 align="left">🔮 laravel | 10%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="50px" height="16px"></h3>
+<h3 align="left">🔮 laravel | 60%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="300px" height="16px"></h3>
 <br>
 <h3 align="left">🔮 mysql | 50%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="250px" height="16px"></h3>
 <br>
