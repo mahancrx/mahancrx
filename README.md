@@ -30,7 +30,7 @@
 <br>
 
 <h2 align="center">I am busy with these things now 😎:</h2>
-<h4 align="center">💫 teaching</h4>
-<h4 align="center">💫 Completion of the project</h4>
-<h4 align="center">💫 Completing the resume</h4>
-<h4 align="center">💫 Learning</h4>
+<h4 align="left">💫 teaching</h4>
+<h4 align="left">💫 Completion of the project</h4>
+<h4 align="left">💫 Completing the resume</h4>
+<h4 align="left">💫 Learning</h4>
