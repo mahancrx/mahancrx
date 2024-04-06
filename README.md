@@ -36,5 +36,5 @@
 <h4 align="left">💫 Learning</h4>
 
 ## My stats
-
-https://github-readme-stats.vercel.app/api?username=mahancrx&theme=blue-green
+<img src="https://github-readme-stats.vercel.app/api?username=mahancrx&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahancrx&theme=blue-green">
