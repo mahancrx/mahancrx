@@ -34,3 +34,7 @@
 <h4 align="left">💫 Completion of the project</h4>
 <h4 align="left">💫 Completing the resume</h4>
 <h4 align="left">💫 Learning</h4>
+
+## My stats
+
+https://github-readme-stats.vercel.app/api?username=mahancrx&theme=blue-green
